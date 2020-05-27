@@ -25,7 +25,7 @@ Data in xlsx file should be stored in specific wayЖ
 
 <img src="https://i.ibb.co/0y6LbHY/exampl.png" alt="exampl img" ></a>
 
-#####command
+##### command
 <pre>
 python xlsx_to_sql -f <i>path_to_xlsx_file</i> -d <i>path_to_destination_sql_file</i>
 </pre>

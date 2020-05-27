@@ -33,3 +33,4 @@ python xlsx_to_sql.py -f <i>path_to_xlsx_file</i> -d <i>path_to_destination_sql_
 #### Requirements
 
 - python 3.x
+- xlrd

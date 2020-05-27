@@ -6,7 +6,7 @@ Simple
 #### Usage
 
 ##### xlsx table requirements
-Data in xlsx file should be stored in specific wayЖ
+Data in xlsx file should be stored in specific way
 
 - The script iterates through all sheet 
 

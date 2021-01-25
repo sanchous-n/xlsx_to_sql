@@ -1,6 +1,6 @@
 # xlsx to sql
 
-Simple python script, which converts Excel book to MySQL INSERT script
+Simple python script which converts Excel book to MySQL INSERT script
 
 
 #### Usage
